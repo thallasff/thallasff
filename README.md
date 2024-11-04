@@ -2,7 +2,7 @@
 
 Website ini dikembangkan sebagai tugas Ujian Tengah Semester (UTS) untuk Mata Kuliah Desain Web yang berisi mengenai beberapa petunjuk untuk pemain game Genshin Impact.
 
-## 📋 Informasi Proyek
+## 📋 Informasi
 - **Nama**: Athalla Safriali
 - **NPM**: 4523210022
 - **Mata Kuliah**: Desain Web
