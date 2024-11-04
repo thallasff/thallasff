@@ -15,3 +15,4 @@ Tujuan utama dari pembuatan website ini adalah untuk memenuhi nilai UTS dalam ma
 - Struktur dan konten HTML yang rapi
 - Penggunaan JavaScript untuk interaktivitas (opsional)
 - Optimalisasi user experience (UX)
+![Uploading Navia.jpg…]()
